@@ -1,31 +1,23 @@
 ---
 title: Home
-navigation: false
+navigation: true
 ---
 
 ::hero
 ---
 announcement:
-  title: 'Release v0.8.21'
+  title: 'AWFixer Security Annoncement!'
   icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
+  to: https://awfixer.blog/awfixer-security
   target: _blank
 actions:
-  - name: Documentation
-    to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
+  - name: Discord
+    to: https://discord.gg/austinscave
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/awfixer-secuity
     leftIcon: 'lucide:github'
 ---
 
 #title
-Welcome to shadcn-docs-nuxt
-
-#description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
-::
-
-::div{class="border rounded-lg shadow-md"}
-  :iframe{src="https://shadcn-docs-nuxt.vercel.app/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
-::
+Welcome to the AWFixer Security Wiki

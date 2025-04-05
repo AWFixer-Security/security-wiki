@@ -38,14 +38,25 @@ export default defineAppConfig({
       credits: "Copyright © 2024",
       links: [
         {
-          icon: "lucide:chat",
-          to: "https://discord.gg/awfixer",
-          target: "_blank",
+          icon: 'lucide:heart',
+          title: 'Sponsor Me',
+          to: 'https://support.awfixer.blog',
+          target: '_blank',
         },
         {
-          icon: "lucide:github",
-          to: "https://github.com/awfixer-security/security-wiki",
-          target: "_blank",
+          icon: 'lucide:twitter',
+          to: 'https://x.com/awfixer',
+          target: '_blank',
+        },
+        {
+          icon: 'simple-icons:discord',
+          to: 'https://discord.gg/austinscave',
+          target: '_blank',
+        },
+        {
+          icon: 'lucide:github',
+          to: 'https://github.com/awfixer-security',
+          target: '_blank',
         },
       ],
     },
